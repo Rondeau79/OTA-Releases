@@ -6,7 +6,7 @@
       "oem": "OEM",
       "device": "Device Name",
       "filename": "EvolutionX-16.0-<date>-<device codename>-v<evolution_x_version>.zip",
-      "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/<device codename>/A16/EvolutionX-16.0-<date>-<device codename>-v<evolution_x_version>.zip/download",
+      "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/<devicecodename>/A16/EvolutionX-16.0-<date>-<devicecodename>-v<evolution_x_version>.zip/download",
       "timestamp": 0000000000,
       "md5": "abcdefg123456",
       "sha256": "abcdefg123456",
