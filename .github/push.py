@@ -15,7 +15,7 @@ vic_vanilla_webhook = os.environ["VIC_VANILLA_WEBHOOK"]
 
 def get_commit_hash(branch, codename):
     path = f"changelogs/{codename}.txt"
-    api_url = f"https://api.github.com/repos/Rondeau79/EVOX-OTA-Releases/commits?path={path}&sha={branch}"
+    api_url = f"https://api.github.com/repos/Rondeau79/EVOX-OTA-Releases/changelogs/commits?path={path}&sha={branch}"
     response = requests.get(api_url)
     response.raise_for_status()
     commits = response.json()
