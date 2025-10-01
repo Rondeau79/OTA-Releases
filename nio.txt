@@ -1,3 +1,0 @@
-Intial A16 OTA build support
-Viper4Android shipped
-Bump to EvoX version 11.2.1
