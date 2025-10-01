@@ -6,7 +6,7 @@ import json
 
 file_path = sys.argv[1]
 
-main_webhook = os.environ["MAIN_WEBHOOK"]
+bka_webhook = os.environ["BKA_WEBHOOK"]
 udc_webhook = os.environ["UDC_WEBHOOK"]
 udc_vanilla_webhook = os.environ["UDC_VANILLA_WEBHOOK"]
 bka_vanilla_webhook = os.environ["BKA_VANILLA_WEBHOOK"]
