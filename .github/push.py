@@ -87,7 +87,7 @@ def webhook_send():
             📦 • **Version**: {version}
             🕒 • **Build date**: {datetime.fromtimestamp(build_date, tz=None).date()}
             📎 • **Build size**: {humanize(file_size)}
-            🗞️ • **[Changelog](https://raw.githubusercontent.com/Evolution-X/OTA/{commit_hash}/changelogs/{codename}.txt)**
+            🗞️ • **[Changelog](https://raw.githubusercontent.com/Rondeau79/EVOX-OTA-Releases/{commit_hash}/changelogs/{codename}.txt)**
             <:Evo:670530693985730570> • **Check [device's infos](https://evolution-x.org/devices/{codename}) directly on our website!**\n
             
             ⬇️ [Download link]({download_link}) ⬇️\n"""
