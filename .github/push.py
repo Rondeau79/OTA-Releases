@@ -39,6 +39,7 @@ def parse_device():
         download_link = response[0]["download"]
         xda_thread = response[0]["forum"]
         github = response[0]["github"]
+        sourceforge = response[0]["sourceforge"]
     return filename, codename, oem, device, maintainer, version, build_date, file_size, download_link, xda_thread, github
 
 def humanize(num, suffix='B'):
