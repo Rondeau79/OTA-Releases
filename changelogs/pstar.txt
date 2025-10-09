@@ -1,3 +1,5 @@
-Intial A16 OTA build support
+Intial A16 Vanilla OTA build support
+October SPL
 Viper4Android shipped
-Bump to EvoX version 11.2.1
+Bump to EvoX version 11.3
+Gapps Optional
