@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "David Rondeau (Rondeau79)",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "Moto G100",
+      "filename":  "EvolutionX-16.0-20251011-nio-11.3-Vanilla-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/Nio/A16/A16_Vanilla/EvolutionX-16.0-20251011-nio-11.3-Vanilla-Unofficial.zip/download",
+      "timestamp": 1760240836,
+      "md5": "fcb89735c2b3ae2a778c7cfaa5fe7f87",
+      "sha256": "53b33b6973c498c7d4d2c7775e8c58b68836de79429850cd13cad135853d62c7",
+      "size": 1202720604,
+      "version": "11.3",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/rom-16-0-evolution-x-11-3-10-08-2025-ota.4687297/",
+      "firmware": "",
+      "paypal": "",
+      "github": "Rondeau79",
+      "sourceforge": "Rondeau97",
+      "initial_installation_images": [
+      "boot"
+      "dtbo"
+      "vendor_boot"
+      ]
+    }
+  ]
+}
