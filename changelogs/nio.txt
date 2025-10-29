@@ -1,3 +1,5 @@
 October SPL
 Viper4Android shipped
 Bump to EvoX version 11.3
+Removed Aperature
+Moto Cam 3 vs.9.0.12.67 now shipped
