@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "David Rondeau (Rondeau79)",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "Moto Edge 20 Pro",
+      "filename": "EvolutionX-16.0-20251029-pstar-11.3-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/Pstar/16/A16_Vanilla/EvolutionX-16.0-20251029-pstar-11.3-Unofficial.zip/download",
+      "timestamp": 1761778982,
+      "md5": "47a1a97313579ab1c7644344783d2cfc",
+      "sha256": "1231d74f8dbf38c73d07894b92fc92d504ceca4219bcf5fdba125c4a571a0b3d",
+      "size": 2408543359,
+      "version": "11.3",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/rom-16-0-unofficial-evolution-x-11-2-1-09-30-2025-ota.4732647/",
+      "firmware": "",
+      "paypal": "",
+      "github": "Rondeau79",
+      "sourceforge": "Rondeau97",
+      "initial_installation_images": [
+      "boot"
+      "dtbo"
+      "vendor_boot"
+      ]
+    }
+  ]
+}
