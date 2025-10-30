@@ -1,5 +1,6 @@
 October SPL
-Viper4Android shipped
+Viper4Android v8.0 redesign shipped
 Bump to EvoX version 11.3
-Removed Aperature
-Moto Cam 3 vs.9.0.12.67 now shipped
+Removed Aperture Cam
+MotoCam3 v9.0.12.67 shipped
+Signed with A16 keys
