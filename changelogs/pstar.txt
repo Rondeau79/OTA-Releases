@@ -4,4 +4,5 @@ Bump to EvoX version 11.4.1
 Re-added Aperture Cam
 MotoCam3 v9.0.12.67 shipped
 Signed with A16 keys
-NFC issues fixed
+NFC issue fixed
+Build aligned with latest Vanilla release
